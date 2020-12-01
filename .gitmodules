@@ -4,3 +4,6 @@
 [submodule "nexus-tutorial"]
 	path = nexus-tutorial
 	url = git@github.com:robence/nexus-tutorial.git
+[submodule "graphql-apollo-server"]
+	path = graphql-apollo-server
+	url = git@github.com:robence/graphql-apollo-server.git
