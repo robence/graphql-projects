@@ -1,0 +1,6 @@
+[submodule "nest-space"]
+	path = nest-space
+	url = git@github.com:robence/nest-space.git
+[submodule "nexus-tutorial"]
+	path = nexus-tutorial
+	url = git@github.com:robence/nexus-tutorial.git
