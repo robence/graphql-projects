@@ -7,3 +7,6 @@
 [submodule "graphql-apollo-server"]
 	path = graphql-apollo-server
 	url = git@github.com:robence/graphql-apollo-server.git
+[submodule "deno-graphql-example"]
+	path = deno-graphql-example
+	url = git@github.com:robence/deno-graphql-example.git
