@@ -10,3 +10,6 @@
 [submodule "deno-graphql-example"]
 	path = deno-graphql-example
 	url = git@github.com:robence/deno-graphql-example.git
+[submodule "next-with-apollo"]
+	path = next-with-apollo
+	url = git@github.com:robence/next-with-apollo.git
